@@ -20,3 +20,6 @@ Servlet
 Wiklet
 jsf
 
+Application lourde :
+Tecnologie swing
+
