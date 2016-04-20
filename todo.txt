@@ -4,8 +4,19 @@ Sites à scanner :
  - eurolines.fr
  - eurostar.com
 
-Couleurs de l'application
+
+
+Language de programmation :
+Java
+
+Serveur d'appli
+Tomcat
+
+Language de programmation :
 Rouge sur fond vert
 
-Titre de l'application:
-Resaspi
+Techno web :
+Servlet
+Wiklet
+jsf
+
